@@ -1,0 +1,1 @@
+<p>Cuaderno de sesi&oacute;n:&nbsp;<a href="https://dphi.tech/notebooks/940/dphi_official/deep-dive-into-pandas-by-juan-betancur" target="_blank">https://dphi.tech/notebooks/940/dphi_official/deep-dive-into-pandas-by-juan-betancur</a></p>
